@@ -1,0 +1,9 @@
+﻿<Application x:Class="Libss.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Libss"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary Source="pack://application:,,,/StyleLib;component/FullDict.xaml"/>
+    </Application.Resources>
+</Application>

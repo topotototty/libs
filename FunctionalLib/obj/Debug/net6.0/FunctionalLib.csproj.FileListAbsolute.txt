@@ -1,0 +1,12 @@
+C:\Users\futbo\source\repos\Libss\FunctionalLib\bin\Debug\net6.0\FunctionalLib.deps.json
+C:\Users\futbo\source\repos\Libss\FunctionalLib\bin\Debug\net6.0\FunctionalLib.dll
+C:\Users\futbo\source\repos\Libss\FunctionalLib\bin\Debug\net6.0\FunctionalLib.pdb
+C:\Users\futbo\source\repos\Libss\FunctionalLib\obj\Debug\net6.0\FunctionalLib.csproj.AssemblyReference.cache
+C:\Users\futbo\source\repos\Libss\FunctionalLib\obj\Debug\net6.0\FunctionalLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\futbo\source\repos\Libss\FunctionalLib\obj\Debug\net6.0\FunctionalLib.AssemblyInfoInputs.cache
+C:\Users\futbo\source\repos\Libss\FunctionalLib\obj\Debug\net6.0\FunctionalLib.AssemblyInfo.cs
+C:\Users\futbo\source\repos\Libss\FunctionalLib\obj\Debug\net6.0\FunctionalLib.csproj.CoreCompileInputs.cache
+C:\Users\futbo\source\repos\Libss\FunctionalLib\obj\Debug\net6.0\FunctionalLib.dll
+C:\Users\futbo\source\repos\Libss\FunctionalLib\obj\Debug\net6.0\refint\FunctionalLib.dll
+C:\Users\futbo\source\repos\Libss\FunctionalLib\obj\Debug\net6.0\FunctionalLib.pdb
+C:\Users\futbo\source\repos\Libss\FunctionalLib\obj\Debug\net6.0\ref\FunctionalLib.dll

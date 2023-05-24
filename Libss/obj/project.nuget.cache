@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WvIXPdMJkBtSMdq4hADnXcBQQJIbm2ArWenMl2rPYnOJknFm4zOI1ukirhbjPPtMYb14jPmkOOC8qrx2lRmCcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\futbo\\source\\repos\\Libss\\Libss\\Libss.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\futbo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
